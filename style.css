@@ -1,0 +1,196 @@
+body {
+    background: #779b2a;
+    background: radial-gradient(circle, rgba(119, 155, 42, 1) 0%, rgba(0, 237, 99, 1) 50%, rgba(115, 150, 39, 1) 100%);
+    scroll-behavior: smooth;
+}
+
+header{
+    border-radius:black;
+    text-align: center;
+    border-radius: 100px; 
+    border: 5px;
+    border-style: solid; 
+    border-radius: 20px;
+    text-align: center;
+}
+
+.texto {
+    font-size: 25px;
+    transition: font-size 0.5s ;
+}
+.texto:hover {
+    font-size: 35px;
+}
+
+nav ul{
+    margin-left: 50px;
+    margin-right: 50px; 
+}
+
+nav ul li{
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    align-items: center;
+}
+
+div{
+    margin-top: 20px;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    font-family: cursive;
+    border-radius: black;
+    border: 5px;
+    border-style: solid;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+div ul {
+    margin-left: 50px;
+    margin-right: 50px; 
+    list-style-position: inside;
+}
+
+div h1{
+    font-size: 40px;
+    color: rgb(7, 91, 248);
+    text-align: center;
+    margin-top: 0.2px;
+    margin-bottom: 0.2px;
+}
+
+span img {
+    display: flex;
+    width: 800px;
+    height: 700px;
+    border-radius: black;
+    border: 5px;
+    border-style: solid;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: 570px;
+    margin-bottom: 20px;
+}
+
+h2, h3{
+    font-size: 40px;
+    color: rgb(7, 91, 248);
+    text-align: center;
+    margin-top: 0.2px;
+    margin-bottom: 0.2px;
+}
+
+h4{
+    font-size: 40px;
+    color: rgb(7, 91, 248);
+    text-align: center;
+    margin-top: 0.2px;
+    margin-bottom: 0.2px;
+    padding-left: 35px;
+}
+
+#Folhas, #Raiz, #Luz, #Tamanho, #Água, #Temperatura, #Toxicidade {
+    font-size: 25px;
+    color: rgb(7, 91, 248);
+    text-align: center;
+}
+
+#planta2, #planta3, #planta4, #planta5, #planta6 {
+    display: flex;
+    width: 800px;
+    height: 700px;
+    border-radius: black;
+    border: 5px;
+    border-style: solid;
+    border-radius: 20px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    margin-left: 560px;
+    box-shadow: 20px -20px 50px 10px  #000;
+}
+
+h5{
+    font-size: 40px;
+    color: rgb(7, 91, 248);
+    text-align: center;
+    margin-top: 20px;
+}
+
+section p{
+    border: 5px;
+    border-style: solid;
+    border-radius: 20px;
+    align-items: center;
+    text-align: center;
+    font-size: 20px;
+    font-family: cursive;
+    padding: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+#Instagram, #Linkedin {
+    display: flex;
+    font-size: 30px;
+    color: rgb(7, 91, 248);
+    text-align: center;
+    margin-top: 0.2px;
+    justify-content: center;
+    text-decoration: none;
+    margin:40px;
+}
+
+footer p{
+    text-align: center;
+    background-color: radial-gradient(circle, rgba(119, 155, 42, 1) 0%, rgba(0, 237, 99, 1) 50%, rgba(115, 150, 39, 1) 100%);
+    color: rgb(7, 91, 248);
+    padding: 10px 0;
+    font-size: 30px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+#insta{
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+
+#linkedin{
+    width: 150px;
+    height: 150px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
